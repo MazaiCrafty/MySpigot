@@ -2,6 +2,7 @@ package HGIG;
 
 //あなる！
 //ヒカルは犯罪者。
+//はんどめいどがんとかいうのみてやってるよ！！:3
 import java.util.List;
 
 import org.lwjgl.opengl.GL11;
