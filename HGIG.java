@@ -1,4 +1,4 @@
-package handmadeguns;
+package HGIG;
 
 import java.util.List;
 
